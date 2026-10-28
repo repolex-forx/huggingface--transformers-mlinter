@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/transformers-mlinter/commit/5a85da7c529c8e087b50884151cfe827e85b39b3",
       "git:hexsha": "5a85da7c529c8e087b50884151cfe827e85b39b3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T14:36:03.078518+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/transformers-mlinter/commit/6b66890cb322073515a98ec01e91a6533566bb06",
