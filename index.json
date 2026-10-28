@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "transformers-mlinter",
+  "versions": [
+    {
+      "commit": "5a85da7c529c8e087b50884151cfe827e85b39b3",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:36:03.079042+00:00"
+    }
+  ]
+}
